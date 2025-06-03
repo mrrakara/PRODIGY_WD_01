@@ -46,8 +46,8 @@ A modern, responsive landing page built with HTML, CSS, and JavaScript. It featu
 
 1. **Clone this repository**
    ```bash
-   git clone https://github.com/your-username/responsive-landing-page.git
-   cd responsive-landing-page
+   git clone https://github.com/mrrakara/PRODIGY_WD_01.git
+   cd PRODIGY_WD_01
    ```
 
 2. **Open the project**
